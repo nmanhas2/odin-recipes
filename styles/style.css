@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+}
+
+h1{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    background-color: aliceblue;
+}
+
+.recipe_name{
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+}
+
+#recipe_list{
+    background-color: rgb(137, 245, 200);
+    margin: 5px auto;
+}
+
+img{
+    display: block;
+    margin: auto auto;
+}
